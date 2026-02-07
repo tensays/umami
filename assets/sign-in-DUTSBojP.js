@@ -1,0 +1,1 @@
+import{e as r,j as e,N as s,p as t,B as a,S as i}from"./index-Ch0ldolK.js";const p=()=>r.ENABLE_AUTH_MOCKING?e.jsx(s,{to:t.app.home.getHref(),replace:!0}):e.jsx(a,{isStatic:!0,children:e.jsx(i,{signUpUrl:t.signUp.getHref(),forceRedirectUrl:t.app.home.getFullHref()})});export{p as default};
